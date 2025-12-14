@@ -1,0 +1,43 @@
+{
+  "Clinical Terms": [
+    "Colon cancer screening",
+    "Hemorrhoids",
+    "Sessile polyp",
+    "Polyp removal",
+    "No immediate complication"
+  ],
+  "Anatomical Locations": [
+    "Anal Canal",
+    "Rectum",
+    "Sigmoid Colon",
+    "Descending Colon",
+    "Splenic Flexure",
+    "Transverse Colon",
+    "Hepatic Flexure",
+    "Ascending Colon",
+    "Cecum",
+    "Terminal Ileum"
+  ],
+  "Diagnosis": [
+    "Colon cancer screening",
+    "Hemorrhoids",
+    "Sessile polyp",
+    "Polyp removal",
+    "No immediate complication"
+  ],
+  "Procedures": [
+    "Colonoscopy",
+    "Cold snare polypectomy"
+  ],
+  "ICD-10": [
+    "K63.5",
+    "Z86.0102",
+    "Z86.0101",
+    "Z86.0100",
+    "K31.7"
+  ],
+  "CPT": [
+    "45385"
+  ],
+  "HCPCS": []
+}
